@@ -37,6 +37,9 @@ img {
   max-width: 100%;
 }
 /* Basic Designs */
+.hOneNone {
+  display: none;
+}
 .content-box-wrapper {
   width: 1280px;
   height: 800px;
