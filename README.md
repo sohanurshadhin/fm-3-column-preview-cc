@@ -15,8 +15,8 @@ Users should be able to:
 ![Preview](./assets/design-preview.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Three Column Preview](https://www.frontendmentor.io/solutions/3-column-preview-card-component-main-DJSH6AIF1L)
+- Live Site URL: [Three Column Preview](https://fm-3-column-preview-cc.vercel.app/)
 
 ## My process
 
