@@ -37,9 +37,6 @@ img {
   max-width: 100%;
 }
 /* Basic Designs */
-.hOneNone {
-  display: none;
-}
 .content-box-wrapper {
   width: 1280px;
   height: 800px;
@@ -57,7 +54,7 @@ img {
 .cards {
   padding: 3rem;
 }
-.cards h2 {
+.cards h1 {
   font-size: 2.5rem;
   font-family: var(--Big_Shoulders_Display);
   font-weight: 700;
